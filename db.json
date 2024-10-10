@@ -1,0 +1,90 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "empUsername": "Admin",
+      "empMail": "admin@gmail.com",
+      "password": "Admin@123",
+      "empStatus": "active",
+      "profile": ""
+    },
+    {
+      "empUsername": "Vasudevan Nair",
+      "empMail": "vasu@gmail.com",
+      "empStatus": "active",
+      "id": 5
+    },
+    {
+      "empUsername": "Ambika Murali",
+      "empMail": "ambika10@gmail.com",
+      "empStatus": "active",
+      "id": 9
+    },
+    {
+      "empUsername": "Murali Gopi",
+      "empMail": "murali@gmail.com",
+      "empStatus": "inactive",
+      "id": 10
+    },
+    {
+      "empUsername": "Jacob P",
+      "empMail": "jacob@gmail.com",
+      "empStatus": "active",
+      "id": 11
+    },
+    {
+      "empUsername": "Janaki Raman",
+      "empMail": "janu@gmail.com",
+      "empStatus": "active",
+      "id": 12
+    },
+    {
+      "empUsername": "Raghuvaran T",
+      "empMail": "raghuvaran@gmail.com",
+      "empStatus": "inactive",
+      "id": 13
+    },
+    {
+      "empUsername": "Radhamani A P",
+      "empMail": "maniradha@gmail.com",
+      "empStatus": "active",
+      "id": 14
+    },
+    {
+      "empUsername": "Ambikeshwaran S",
+      "empMail": "ambikeshwaran@gmail.com",
+      "empStatus": "inactive",
+      "id": 15
+    },
+    {
+      "empUsername": "Gangadharan P T",
+      "empMail": "gandadharan@gmail.com",
+      "empStatus": "active",
+      "id": 16
+    },
+    {
+      "empUsername": "Punathil Bharathan ",
+      "empMail": "p.bharathan@gmail.com",
+      "empStatus": "inactive",
+      "id": 17
+    },
+    {
+      "empUsername": "Anandhan P",
+      "empMail": "anandhan@yaahoo.mail.com",
+      "empStatus": "active",
+      "id": 18
+    },
+    {
+      "empUsername": "Rajeesh S",
+      "empMail": "rajeeshwaran@gmail.com",
+      "empStatus": "active",
+      "id": 19
+    },
+    {
+      "empUsername": "Dineshan B D",
+      "empMail": "dineshbd@gmail.com",
+      "empStatus": "active",
+      "id": 20
+    }
+  ]
+}
